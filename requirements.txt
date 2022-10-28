@@ -1,0 +1,7 @@
+vectorbt
+numpy
+alpaca_trade_api
+alpaca_py
+kaleido
+pandas_ta
+loguru
